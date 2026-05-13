@@ -17,5 +17,6 @@ Xelora Trading is a crypto/Web3 trading project built for learning, testing stra
 
 ## 📦 Setup Instructions
 ```bash
+Project successfully updated after initial setup.
 git clone https://github.com/Danbature1/xelora-trading.git
 cd xelora-trading
